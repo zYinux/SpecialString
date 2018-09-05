@@ -1,8 +1,9 @@
 # SpecialString
-#SpecialString 这是一个SpannableStringBuilder的辅助工具
+# SpecialString 这是一个SpannableStringBuilder的辅助工具
     适合新手或者老鸟简单的需求使用。非常复杂特殊化的样式需求请使用SpannableStringBuilder。
 ## 写安卓的很多时候都会遇到这样子的界面需求
 ![GitHub](http://pdy1qf1ru.bkt.clouddn.com/1536110360.jpg )
+
 一般遇到这种情况，有几个选择。
 - 写三个TextView，来设置三个不同的文字和背景颜色。
 - 写一个TextView 用SpannableStringBuilder来为不同部分文字设置不同样式。

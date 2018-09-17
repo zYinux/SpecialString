@@ -19,7 +19,7 @@
 1. 引入库
 ```java
 //在module下的dependencies 中加入
-'com.zyinux:specialstring:1.0.2'
+'com.zyinux:specialstring:1.0.3'
 ```
 2.使用
 ```java
